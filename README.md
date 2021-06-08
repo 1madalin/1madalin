@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
    <img src="LinkedInLogo.png.ico" width="auto" height="50px" />
  </a>
  <a href="https://www.linkedin.com/in/madalin-glitia-b25388212......../" >
-   <img src="LinkedInLogo.png.ico......." width="auto" height="50px" />
+   <img src="FacebookLogo.png.png" width="auto" height="50px" />
  </a>
  
  
