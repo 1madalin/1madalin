@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats)](https://github.com/GlitiaMadalin/github-readme-stats)
 
-<a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
-</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
 
