@@ -37,13 +37,13 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
-
+<a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&layout=compact)](https://github.com/GlitiaMadalin/github-readme-stats)
-
+</a>
 
 <a href="https://github.com/GlitiaMadalin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/GlitiaMadalin/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=LinkInBio" />
 </a>
