@@ -25,25 +25,25 @@ You can click the Preview link to take a look at your changes.
  
  
 # Stats
-[![1madalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1madalin)](https://github.com/1madalin/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mAdalin&count_private=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1madalin&show_icons=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1madalin&show_icons=true&theme=radical)
+[![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
+ ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&count_private=true)
+ ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true)
+ ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
 
 
 # Personal Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1madalin&repo=github-readme-stats)](https://github.com/1madalin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats)](https://github.com/GlitiaMadalin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1madalin)](https://github.com/1madalin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1madalin&hide=javascript,html)](https://github.com/1madalin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&layout=compact)](https://github.com/GlitiaMadalin/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=convoychat" />
 </a>
