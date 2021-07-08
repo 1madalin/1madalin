@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @1madalin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 1madalin/1madalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +20,10 @@ You can click the Preview link to take a look at your changes.
  
  
 # Stats
-[![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/Test1.1.git)
-[ ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&count_private=true)
- [![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true)
- [![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
+![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/Test1.1.git)
+ ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&count_private=true)
+![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true)
+![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
 
 
 # Personal Projects
