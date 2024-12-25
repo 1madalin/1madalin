@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # GlitiaMadalin  
 
 # About Me
- I am a computer science graduate and I live in Romania. 
+ I am a computer science engineer and I live in Romania. 
  I like the IT field, being also passionate about finance and law and personal development.
  
  
