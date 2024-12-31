@@ -50,10 +50,11 @@ development frameworks. I have a quick learning ability and can efficiently adap
 
 
 
-
+ <!--
 <a href="https://github.com/GlitiaMadalin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/GlitiaMadalin/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=LinkInBio" />
 </a>
+-->
