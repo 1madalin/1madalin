@@ -30,18 +30,18 @@ development frameworks. I have a quick learning ability and can efficiently adap
    <img src="FacebookLogo.png.png" width="auto" height="50px" />
  </a>
  
- 
+ <!--
 # Stats
 [![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/Test1.1.git)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&count_private=true)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
-
+--->
 
 # Personal Projects
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlitiaMadalin&repo=github-readme-stats)](https://github.com/GlitiaMadalin/github-readme-stats)
+[![Readme Card](https://github.com/GlitiaMadalin/LinkInBio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
 
