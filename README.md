@@ -43,8 +43,7 @@ development frameworks. I have a quick learning ability and can efficiently adap
 
 [![Readme Card](https://github.com/GlitiaMadalin/LinkInBio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/github-readme-stats)
-
+[![Top Langs](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/MagB_Bugaboo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&layout=compact)](https://github.com/GlitiaMadalin/github-readme-stats)
