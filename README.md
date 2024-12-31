@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 # About Me
  Hello, I’m Glitia Madalin.
  
- I am a computer science engineer having strong knowledge and practical experience in quality assurance, with a keen sense of problem-solving and identifying issues to deliver high-quality software. Experienced in the latest functional programming tools and frameworks, I am skilled in testing applications to deliver optimal performance.
+ I am a computer science engineer having strong knowledge and practical experience in quality assurance, with a keen sense of problem-solving and identifying issues to deliver high-quality software.
+ 
+ Experienced in the latest functional programming tools and frameworks, I am skilled in testing applications to deliver optimal performance.
  
  I am a quick learner and can adapt effectively to new technologies. My excellent teamwork and self-directed work skills enable me to deliver quality results.
  Furthermore, I am proficient in analyzing test plans for both manual and automated testing, and in designing, developing, and maintaining behavior and test-driven 
 development frameworks. I have a quick learning ability and can efficiently adapt to new technologies. 
- 
- I have sufficient knowledge about mobile testing applications.
  
  I have some knowledge of JavaScript, CSS, and HTML.
 
