@@ -19,7 +19,8 @@ development frameworks. I have a quick learning ability and can efficiently adap
  I have some knowledge of JavaScript, CSS, and HTML.
 
  I like the IT field, being also passionate about finance and law and personal development.
- 
+
+ My LinkedIn profile: https://www.linkedin.com/in/madalin-glitia/
  
 # How to reach Me
 <a href="https://www.linkedin.com/in/madalin-glitia-b25388212/" >
