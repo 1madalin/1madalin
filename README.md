@@ -6,9 +6,8 @@ You can click the Preview link to take a look at your changes.
 # GlitiaMadalin  
 
 # About Me
- Hello, I’m Glitia Madalin.
- 
- I am a computer science engineer having strong knowledge and practical experience in quality assurance, with a keen sense of problem-solving and identifying issues to deliver high-quality 
+<h1>Hi 👋, I'm Glitia Madalin</h1>
+ <p> I am a computer science engineer having strong knowledge and practical experience in quality assurance, with a keen sense of problem-solving and identifying issues to deliver high-quality 
  software.
  
  Experienced in the latest functional programming tools and frameworks, I am skilled in testing applications to deliver optimal performance.
@@ -21,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  
  I have knowledge of JavaScript, CSS, and HTML.
 
- My LinkedIn profile: https://www.linkedin.com/in/madalin-glitia/
+ My LinkedIn profile: https://www.linkedin.com/in/madalin-glitia/  </p>
  
 # How to reach Me
 <a href="https://www.linkedin.com/in/madalin-glitia-b25388212/" >
@@ -31,8 +30,8 @@ You can click the Preview link to take a look at your changes.
    <img src="FacebookLogo.png.png" width="auto" height="50px" />
  </a>
 
-<h1>Hi 👋, I'm Glitia Madalin</h1>
-<p>I am a computer science engineer having strong knowledge and practical experience in quality assurance</p>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -65,7 +64,7 @@ You can click the Preview link to take a look at your changes.
  
  <!--
 # Stats
-[![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)](https://github.com/GlitiaMadalin/Test1.1.git)
+[![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&count_private=true)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true)
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
@@ -74,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 # Personal Projects
 
 
-[![Readme Card](https://github.com/GlitiaMadalin/LinkInBio)
+[![Readme Card](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/LinkInBio)
 
 [![Top Langs](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/MagB_Bugaboo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
