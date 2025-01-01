@@ -72,14 +72,24 @@ You can click the Preview link to take a look at your changes.
 
 # Personal Projects
 
+[Your Project Name 1](link-to-your-project)
 
+[MagB_Bugaboo](https://github.com/GlitiaMadalin/MagB_Bugaboo)
+
+[Your Project Name 1](link-to-your-project)
+ 
+
+
+
+
+ <!--
 [![Readme Card](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/LinkInBio)
 
 [![Top Langs](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/MagB_Bugaboo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&hide=javascript,html)](https://github.com/GlitiaMadalin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitiaMadalin&layout=compact)](https://github.com/GlitiaMadalin/github-readme-stats)
-
+--->
 
 
  <!--
