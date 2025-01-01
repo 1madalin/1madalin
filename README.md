@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # GlitiaMadalin  
 
 # About Me
-<h1>Hi 👋, I'm Glitia Madalin</h1>
+<h3>Hi 👋, I'm Glitia Madalin</h3>
  <p> I am a computer science engineer having strong knowledge and practical experience in quality assurance, with a keen sense of problem-solving and identifying issues to deliver high-quality 
  software.
  
