@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 
 [MagB_Bugaboo](https://github.com/GlitiaMadalin/MagB_Bugaboo)
 
-[Your Project Name 1](link-to-your-project)
+[MagB_Yavlena](https://github.com/GlitiaMadalin/MagB_Yavlena))
  
 
 
