@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 
 [GMagB_Yavlena](https://github.com/GlitiaMadalin/GMagB_Yavlena)
 
+[zerobank-automation](https://github.com/GlitiaMadalin/zerobank-automation)
+
+
  <!--
 [![Readme Card](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/LinkInBio)
 
