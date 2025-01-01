@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 ![GlitiaMadalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitiaMadalin&show_icons=true&theme=radical)
 --->
 
-# Personal Projects
+# Popular repositories
 
 [EU10GROUP3HECTORWARE](https://github.com/GlitiaMadalin/EU10GROUP3HECTORWARE)
 
