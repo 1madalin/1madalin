@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 # Personal Projects
 
-[Your Project Name 1](link-to-your-project)
+[EU10GROUP3HECTORWARE](https://github.com/GlitiaMadalin/EU10GROUP3HECTORWARE)
 
 [GMagB_Bugaboo](https://github.com/GlitiaMadalin/GMagB_Bugaboo)
 
