@@ -73,14 +73,9 @@ You can click the Preview link to take a look at your changes.
 # Personal Projects
 
 [EU10GROUP3HECTORWARE](https://github.com/GlitiaMadalin/EU10GROUP3HECTORWARE)
-
+[BT_Madalin](https://github.com/GlitiaMadalin/BT_Madalin)
 [GMagB_Bugaboo](https://github.com/GlitiaMadalin/GMagB_Bugaboo)
-
 [GMagB_Yavlena](https://github.com/GlitiaMadalin/GMagB_Yavlena)
- 
-
-
-
 
  <!--
 [![Readme Card](https://github.com/GlitiaMadalin/github-readme-stats](https://github.com/GlitiaMadalin/LinkInBio)
